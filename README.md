@@ -1,2 +1,2 @@
 # Mutton-Chop-IncomeTracker
-This repository holds a Console application designed to help hourly wage earners with one or multiple jobs with or without varying wages estimate their income based on hours worked/scheduled
+This repository holds a Console application designed to help hourly wage earners with one or multiple jobs with or without varying wages estimate their income based on hours worked/scheduled.  This was my first project after finishing my initial learning and Java.  It has been re-worked as a Spring Boot MVC application with a React front end.  That project resides in Mutton-Chop-WageTrak.
